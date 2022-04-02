@@ -1,0 +1,13 @@
+C:\Users\faisa\OneDrive\Desktop\csharp\asssharp\TextEditor\TextEditor\bin\Debug\TextEditor.exe.config
+C:\Users\faisa\OneDrive\Desktop\csharp\asssharp\TextEditor\TextEditor\bin\Debug\TextEditor.exe
+C:\Users\faisa\OneDrive\Desktop\csharp\asssharp\TextEditor\TextEditor\bin\Debug\TextEditor.pdb
+C:\Users\faisa\OneDrive\Desktop\csharp\asssharp\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.AssemblyReference.cache
+C:\Users\faisa\OneDrive\Desktop\csharp\asssharp\TextEditor\TextEditor\obj\Debug\TextEditor.Form1.resources
+C:\Users\faisa\OneDrive\Desktop\csharp\asssharp\TextEditor\TextEditor\obj\Debug\TextEditor.Properties.Resources.resources
+C:\Users\faisa\OneDrive\Desktop\csharp\asssharp\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.GenerateResource.cache
+C:\Users\faisa\OneDrive\Desktop\csharp\asssharp\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.CoreCompileInputs.cache
+C:\Users\faisa\OneDrive\Desktop\csharp\asssharp\TextEditor\TextEditor\obj\Debug\TextEditor.exe
+C:\Users\faisa\OneDrive\Desktop\csharp\asssharp\TextEditor\TextEditor\obj\Debug\TextEditor.pdb
+C:\Users\faisa\OneDrive\Desktop\csharp\asssharp\TextEditor\TextEditor\obj\Debug\TextEditor.Form2.resources
+C:\Users\faisa\OneDrive\Desktop\csharp\asssharp\TextEditor\TextEditor\obj\Debug\TextEditor.Form3.resources
+C:\Users\faisa\OneDrive\Desktop\csharp\asssharp\TextEditor\TextEditor\obj\Debug\TextEditor.Form4.resources
